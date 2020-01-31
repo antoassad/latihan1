@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(184, 152, 141);
+}
+body {
+    color: rgb(226, 11, 11);
+    font-style: inherit;
+    background-image: url(foto1.jpeg);
+}
+.aceh1 {
+    font-size: larger;
+    border;
+    border-color: crimson;
+}
+.aceh_satu {
+    color: blue;
+    font-style: italic;
+}
